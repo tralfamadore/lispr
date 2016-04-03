@@ -1,0 +1,4 @@
+[package]
+name = "lispr"
+version = "0.1.0"
+authors = ["Alex Maxakov <alexandr.maxakov@gmail.com>"]
